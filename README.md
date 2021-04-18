@@ -3,7 +3,7 @@
 
 > Materi: Queue
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## MUHAMMAD ARIIQ RAKHA SHAFA - 140810200064
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
